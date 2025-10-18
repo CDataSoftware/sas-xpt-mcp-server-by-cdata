@@ -1,7 +1,7 @@
 # sas-xpt-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for SAS xpt
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for SAS xpt](https://www.cdata.com/drivers/sasxpt/download/mcp/). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our [CData MCP Server for SAS xpt](https://www.cdata.com/drivers/sasxpt/download/mcp/). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data SAS xpt supported by the [CData JDBC Driver for SAS xpt](https://www.cdata.com/drivers/sasxpt/jdbc/).
 
